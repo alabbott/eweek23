@@ -1,0 +1,36 @@
+{
+	"events": [
+		{
+			"name": "Sleep and get ready for work",
+			"start": 0,
+			"length": 30600
+		},
+		{
+			"name": "Eat lunch",
+			"start": 43200,
+			"length": 3600
+		},
+		{
+			"name": "Relax (or at least try not think about work)",
+			"start": 63000,
+			"length": 23400
+		}
+	],
+	"tasks": [
+		{
+			"name": "Test cardinal grammeter synchronizer",
+			"priority": 2,
+			"length": 14400
+		},
+		{
+			"name": "Create Engineers Week challenge",
+			"priority": 1,
+			"length": 10800
+		},
+		{
+			"name": "Complete Bravo point exchange rate optimization spreadsheet",
+			"priority": 3,
+			"length": 3600
+		}
+	]
+}
